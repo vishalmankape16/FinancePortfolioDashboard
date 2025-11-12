@@ -47,3 +47,32 @@ This project is ideal for developers learning MVC, database integration, and rea
 ```bash
 git clone https://github.com/vishalmankape16/FinancePortfolioDashboard.git
 cd FinancePortfolioDashboard
+Open the project in Visual Studio 2022 or later.
+
+Ensure you have SQL Server Express installed.
+
+Update the appsettings.json connection string to match your SQL Server instance:
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=FinancePortfolioDB;Trusted_Connection=True;TrustServerCertificate=True;"
+}
+
+
+Restore NuGet packages:
+
+dotnet restore
+
+
+Apply migrations to create the database:
+
+dotnet ef database update
+
+
+Run the application:
+
+dotnet run
+
+
+Open your browser and navigate to:
+
+https://localhost:5001
