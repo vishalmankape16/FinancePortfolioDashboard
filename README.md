@@ -1,10 +1,7 @@
-<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/edb6f2d8-249b-4f4b-9528-09f6fd8065ae" />
 # FinancePortfolioDashboard
-
-![.NET](https://img.shields.io/badge/.NET-9-blue)
-![C#](https://img.shields.io/badge/C%23-9.0-blue)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Express-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+<img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/b15cf37b-819a-42b3-bcf6-82aca7a5fde3" />
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/edb6f2d8-249b-4f4b-9528-09f6fd8065ae" />
+<img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/a7f395e6-0292-4af2-bba3-8757af96a6e4" />
 
 ## Project Overview
 
