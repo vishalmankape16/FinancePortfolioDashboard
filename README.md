@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/edb6f2d8-249b-4f4b-9528-09f6fd8065ae" />
 # FinancePortfolioDashboard
 
 ![.NET](https://img.shields.io/badge/.NET-9-blue)
