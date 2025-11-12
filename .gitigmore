@@ -1,0 +1,15 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.DS_Store
+
+# Visual Studio and VSCode
+*.vscode/
+*.vs/
+
+# Database settings (optional, you can use appsettings.json.example instead)
+appsettings.json
